@@ -1,4 +1,4 @@
-🦀 Rust Learning Repository
+**🦀 Rust Learning Repository**
 
 A hands-on Rust learning repository containing multiple small projects built to understand Rust fundamentals, Cargo workflows, CLI development, and safe systems programming.
 
