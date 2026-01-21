@@ -33,7 +33,9 @@ Run
 cd hello_world
 cargo run
 ```
+
 🎯 Guessing Game
+
 A terminal-based number guessing game inspired by the official Rust Book.
 
 **Features**
@@ -48,7 +50,9 @@ Run
 cd guessing_game
 cargo run
 ```
+
 ✅ CLI Todo App
+
 A command-line todo list application built using idiomatic Rust.
 
 **Features**
