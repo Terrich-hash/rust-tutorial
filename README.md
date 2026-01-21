@@ -18,7 +18,9 @@ rust-learn/
 └── Cargo.toml   # Workspace configuration
 ```
 🚀 Projects Included
+
 🟢 Hello World
+
 A minimal Rust program to verify the Rust toolchain and understand the basic program structure.
 
 **Concepts covered**
